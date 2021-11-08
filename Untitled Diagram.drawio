@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T05:08:43.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="tzFtDZY6gysLxgoTqy7q" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T20:53:08.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="vvqkguoSxSD6bDW-CHXE" version="15.7.0" type="github">
   <diagram id="MfLAGxXRqBZUs_taJzYB" name="Page-1">
     <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -96,6 +96,9 @@
         <mxCell id="i7VJk_vyDsrVkz2_0ncC-15" value="Link 6: Mail (yahoomail)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="i7VJk_vyDsrVkz2_0ncC-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i7VJk_vyDsrVkz2_0ncC-16" target="i7VJk_vyDsrVkz2_0ncC-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i7VJk_vyDsrVkz2_0ncC-16" value="Article about the benefit of hard coding website" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="323" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -104,6 +107,9 @@
         </mxCell>
         <mxCell id="i7VJk_vyDsrVkz2_0ncC-17" value="&lt;h2&gt;Breakdown of my Website&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i7VJk_vyDsrVkz2_0ncC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="i7VJk_vyDsrVkz2_0ncC-18" target="i7VJk_vyDsrVkz2_0ncC-64">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i7VJk_vyDsrVkz2_0ncC-18" value="Video of my website" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="240" width="120" height="60" as="geometry" />
@@ -185,6 +191,12 @@
             <mxPoint x="400" y="400" as="sourcePoint" />
             <mxPoint x="450" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="i7VJk_vyDsrVkz2_0ncC-64" value="(Video on the basic structure of the website) (5 mins long)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7VJk_vyDsrVkz2_0ncC-66" value="My critique of the article" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
